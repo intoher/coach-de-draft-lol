@@ -16,10 +16,12 @@ opcional con la IA que prefieras.
    el menú Inicio.
 3. Abre el cliente de League: la app se conecta sola.
 
-## Se actualiza sola
+## Actualizaciones
 
-Solo hay que instalarla una vez. Cuando sale una versión nueva, la app la descarga de aquí y la instala en silencio,
-nunca en cola, selección de campeones ni partida. Se puede desactivar en *Ajustes → Actualizaciones*.
+Solo hay que instalarla una vez. Cuando sale una versión nueva, la app te avisa (nunca en cola, selección de campeones
+ni partida) y la instalas con un clic: se cierra y se vuelve a abrir sola en unos segundos. Si prefieres que se
+actualice sola, activa la *Actualización automática* en *Ajustes → Actualizaciones*: entonces la descarga de aquí y la
+instala en silencio, sin interrumpirte.
 
 Todas las versiones: [Releases](https://github.com/intoher/coach-de-draft-lol/releases).
 
