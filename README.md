@@ -3,7 +3,9 @@
 Coach de draft para League of Legends en una ventana para la segunda pantalla. Sigue tu selección de campeones en
 tiempo real y te dice qué elegir (priorizando la línea inferior), qué banear, cómo va cada enfrentamiento, qué build
 hacer y cómo jugar los primeros 15 minutos. Las estadísticas son reales (OP.GG, parche actual) y tiene un Coach IA
-opcional con la IA que prefieras.
+opcional con la IA que prefieras: analiza tu draft, **contesta en un chat** lo que le preguntes de League (runas,
+enfrentamientos, builds, cómo jugar algo) con los datos del parche actual, y hace la **review de tu perfil** con
+todas tus partidas: qué haces bien, qué te está costando partidas y cómo mejorar.
 
 ¿Demasiada información? Elige el **Modo simple** (la app lo pregunta la primera vez que la abres, y se cambia cuando
 quieras en *Ajustes*): cada pestaña enseña solo lo imprescindible para entender el draft y tu línea.
@@ -37,8 +39,10 @@ Todas las versiones: [Releases](https://github.com/intoher/coach-de-draft-lol/re
   cliente el rango, la maestría y las últimas partidas de los rivales; sus nombres no se guardan ni se envían a
   ningún sitio. Se desactiva en *Ajustes*.
 - Fuera de tu PC solo pide estadísticas de campeones a OP.GG, datos del juego a Riot (Data Dragon y notas de parche),
-  las versiones nuevas a esta página y, si activas el Coach IA, el resumen del draft a la IA que elijas, con tu
-  propia key y sin nombres de jugadores.
+  las versiones nuevas a esta página y, si activas el Coach IA, lo que le pidas (el resumen del draft, tus preguntas
+  del chat o el resumen de tus partidas para la review) a la IA que elijas, con tu propia key y sin nombres de
+  jugadores.
+- Tus partidas (campeones, resultado y tus estadísticas, sin nombres de jugadores) se guardan solo en tu PC.
 
 ## Desinstalar
 
