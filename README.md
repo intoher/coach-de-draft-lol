@@ -5,6 +5,9 @@ tiempo real y te dice qué elegir (priorizando la línea inferior), qué banear,
 hacer y cómo jugar los primeros 15 minutos. Las estadísticas son reales (OP.GG, parche actual) y tiene un Coach IA
 opcional con la IA que prefieras.
 
+¿Demasiada información? Activa el **Modo simple** en *Ajustes*: cada pestaña enseña solo lo imprescindible para
+entender el draft y tu línea.
+
 ## Descargar
 
 **[⬇ Descargar el instalador para Windows](https://github.com/intoher/coach-de-draft-lol/releases/latest/download/Coach-de-draft-LoL-Setup.exe)** (Windows 10 u 11 de 64 bits, unos 89 MB)
