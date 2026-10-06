@@ -5,8 +5,8 @@ tiempo real y te dice qué elegir (priorizando la línea inferior), qué banear,
 hacer y cómo jugar los primeros 15 minutos. Las estadísticas son reales (OP.GG, parche actual) y tiene un Coach IA
 opcional con la IA que prefieras.
 
-¿Demasiada información? Activa el **Modo simple** en *Ajustes*: cada pestaña enseña solo lo imprescindible para
-entender el draft y tu línea.
+¿Demasiada información? Elige el **Modo simple** (la app lo pregunta la primera vez que la abres, y se cambia cuando
+quieras en *Ajustes*): cada pestaña enseña solo lo imprescindible para entender el draft y tu línea.
 
 ## Descargar
 
@@ -22,7 +22,8 @@ entender el draft y tu línea.
 ## Actualizaciones
 
 Solo hay que instalarla una vez. Cuando sale una versión nueva, la app te avisa (nunca en cola, selección de campeones
-ni partida) y la instalas con un clic: se cierra y se vuelve a abrir sola en unos segundos. Si prefieres que se
+ni partida) y mientras no la instales tienes el botón **Actualizar** arriba a la izquierda, junto a la versión: un clic
+y se cierra y se vuelve a abrir sola en unos segundos, ya actualizada. Si prefieres que se
 actualice sola, activa la *Actualización automática* en *Ajustes → Actualizaciones*: entonces la descarga de aquí y la
 instala en silencio, sin interrumpirte.
 
