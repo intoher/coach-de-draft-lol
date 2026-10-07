@@ -9,7 +9,7 @@ todas tus partidas: qué haces bien, qué te está costando partidas y cómo mej
 
 En **Perfil** tienes tu **historial de partidas**: al abrir una ves **por qué ganaste o perdiste**, sus **momentos
 decisivos** con su porqué (cada pelea con los retratos de quién mató a quién y un minimapa de dónde pasó), un **mapa
-de la partida** con solo lo tuyo o con todo, la diferencia de oro minuto a minuto, el marcador de los diez jugadores
+de la partida** ampliable, con solo lo tuyo o con todo y una **repetición** con dónde estaba cada uno minuto a minuto, la diferencia de oro minuto a minuto, el marcador de los diez jugadores
 (con sus runas, objetos y los objetivos de cada equipo en iconos) y tu fase de líneas (y, con el Coach IA, el coach
 te la explica). Puedes **buscar a cualquier invocador** por su Riot ID y ver su
 perfil (rango, cómo viene, sus campeones y sus partidas) y, **desde la pantalla de carga**, el perfil de los cinco
