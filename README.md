@@ -7,6 +7,13 @@ opcional con la IA que prefieras: analiza tu draft, **contesta en un chat** lo q
 enfrentamientos, builds, cómo jugar algo) con los datos del parche actual, y hace la **review de tu perfil** con
 todas tus partidas: qué haces bien, qué te está costando partidas y cómo mejorar.
 
+En **Perfil** tienes tu **historial de partidas**: al abrir una ves **por qué ganaste o perdiste**, sus **momentos
+decisivos** con su porqué, la diferencia de oro minuto a minuto, el marcador de los diez jugadores y tu fase de
+líneas (y, con el Coach IA, el coach te la explica). Puedes **buscar a cualquier invocador** por su Riot ID y ver su
+perfil (rango, cómo viene, sus campeones y sus partidas) y, **desde la pantalla de carga**, el perfil de los cinco
+rivales y de tu equipo: su rango, cuánto han jugado a su campeón, cómo vienen, quiénes juegan juntos y qué hacer
+contra cada uno.
+
 ¿Demasiada información? Elige el **Modo simple** (la app lo pregunta la primera vez que la abres, y se cambia cuando
 quieras en *Ajustes*): cada pestaña enseña solo lo imprescindible para entender el draft y tu línea.
 
@@ -36,12 +43,14 @@ Todas las versiones: [Releases](https://github.com/intoher/coach-de-draft-lol/re
 - Lee la selección de campeones del propio cliente de League (la API local que usan Blitz, Porofessor, U.GG…). No
   automatiza nada: no elige, no banea ni acepta por ti.
 - Durante la selección de campeones no consulta nada de ningún jugador. Con la partida ya empezada, lee en tu
-  cliente el rango, la maestría y las últimas partidas de los rivales; sus nombres no se guardan ni se envían a
-  ningún sitio. Se desactiva en *Ajustes*.
+  cliente el rango, la maestría y las últimas partidas de los jugadores de la partida, como hacen las apps de partida
+  en vivo; lo leído no se guarda ni se envía a ningún sitio. Se desactiva en *Ajustes*.
+- Los perfiles de otros invocadores y el detalle de cada partida se piden a tu propio cliente de League, nunca a
+  terceros.
 - Fuera de tu PC solo pide estadísticas de campeones a OP.GG, datos del juego a Riot (Data Dragon y notas de parche),
   las versiones nuevas a esta página y, si activas el Coach IA, lo que le pidas (el resumen del draft, tus preguntas
-  del chat o el resumen de tus partidas para la review) a la IA que elijas, con tu propia key y sin nombres de
-  jugadores.
+  del chat, el resumen de tus partidas para la review o la partida que quieres que te explique) a la IA que elijas,
+  con tu propia key y sin nombres de jugadores.
 - Tus partidas (campeones, resultado y tus estadísticas, sin nombres de jugadores) se guardan solo en tu PC.
 
 ## Desinstalar
