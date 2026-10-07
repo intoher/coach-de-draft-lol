@@ -16,6 +16,11 @@ perfil (rango, cómo viene, sus campeones y sus partidas) y, **desde la pantalla
 rivales y de tu equipo: su rango, cuánto han jugado a su campeón, cómo vienen, quiénes juegan juntos y qué hacer
 contra cada uno.
 
+Y la **ventanita**, como la de Porofessor o Blitz: una ventana pequeña que se abre sola en cada selección de
+campeones (en tu segunda pantalla) con lo útil de cada momento. Qué banear y qué elegir, tu build y tu plan; en la
+pantalla de carga, los diez jugadores con su rango y cómo vienen; y durante la partida, el marcador con el **oro en
+objetos** de cada equipo, **cuándo sale cada objetivo**, tus números frente a tu rival y **tu siguiente compra**.
+
 ¿Demasiada información? Elige el **Modo simple** (la app lo pregunta la primera vez que la abres, y se cambia cuando
 quieras en *Ajustes*): cada pestaña enseña solo lo imprescindible para entender el draft y tu línea.
 
@@ -47,6 +52,8 @@ Todas las versiones: [Releases](https://github.com/intoher/coach-de-draft-lol/re
 - Durante la selección de campeones no consulta nada de ningún jugador. Con la partida ya empezada, lee en tu
   cliente el rango, la maestría y las últimas partidas de los jugadores de la partida, como hacen las apps de partida
   en vivo; lo leído no se guarda ni se envía a ningún sitio. Se desactiva en *Ajustes*.
+- Durante la partida, la ventanita lee la API de partida del propio juego (en tu PC, la misma del marcador del Tab):
+  solo lo que el juego ya enseña a cualquier jugador, y nada sale de tu PC.
 - Los perfiles de otros invocadores y el detalle de cada partida se piden a tu propio cliente de League, nunca a
   terceros.
 - Fuera de tu PC solo pide estadísticas de campeones a OP.GG, datos del juego a Riot (Data Dragon y notas de parche),
