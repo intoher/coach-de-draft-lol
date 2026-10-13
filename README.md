@@ -5,7 +5,9 @@ tiempo real y te dice qué elegir (priorizando la línea inferior), qué banear,
 hacer y cómo jugar los primeros 15 minutos. Las estadísticas son reales (OP.GG, parche actual) y tiene un Coach IA
 opcional con la IA que prefieras: analiza tu draft, **contesta en un chat** lo que le preguntes de League (runas,
 enfrentamientos, builds, cómo jugar algo) con los datos del parche actual, y hace la **review de tu perfil** con
-todas tus partidas: qué haces bien, qué te está costando partidas y cómo mejorar.
+todas tus partidas: qué haces bien, qué te está costando partidas y cómo mejorar. Si la IA está saturada (el típico
+error 503 de Gemini), el coach vuelve a preguntar solo y, si sigue igual, contesta otro modelo de la misma IA (nunca
+uno más caro) y te dice cuál.
 
 En **Perfil** tienes tu **historial de partidas**: al abrir una ves **por qué ganaste o perdiste**, sus **momentos
 decisivos** con su porqué (cada pelea con los retratos de quién mató a quién y un minimapa de dónde pasó), un **mapa
@@ -23,6 +25,8 @@ objetos** de cada equipo, **cuándo sale cada objetivo**, tus números frente a 
 
 ¿Demasiada información? Elige el **Modo simple** (la app lo pregunta la primera vez que la abres, y se cambia cuando
 quieras en *Ajustes*): cada pestaña enseña solo lo imprescindible para entender el draft y tu línea.
+
+**Also in English:** *Ajustes → Idioma · Language* pone toda la app, y las respuestas del Coach IA, en inglés.
 
 ## Descargar
 
