@@ -23,6 +23,13 @@ campeones (en tu segunda pantalla) con lo útil de cada momento. Qué banear y q
 pantalla de carga, los diez jugadores con su rango y cómo vienen; y durante la partida, el marcador con el **oro en
 objetos** de cada equipo, **cuándo sale cada objetivo**, tus números frente a tu rival y **tu siguiente compra**.
 
+Y el **companion**: un pequeño asistente holográfico que vive en tu pantalla. Haz clic en él y pídele con tus
+palabras «búscame soloq en 5 minutos, pickea akali mid y banea fizz»: te pregunta lo necesario (tu segunda línea, a
+quién pickear si te banean o te toca autofill, qué hacer si eres first pick…), lo recuerda para la próxima vez, y
+a su hora busca la partida, la acepta, banea y pickea por ti, siempre con unos segundos para que lo cambies tú. Se
+mueve por la pantalla, tiene sus caras y sus sonidos, y se esconde durante la partida. Se activa con el botón del
+robot de la barra de título.
+
 ¿Demasiada información? Elige el **Modo simple** (la app lo pregunta la primera vez que la abres, y se cambia cuando
 quieras en *Ajustes*): cada pestaña enseña solo lo imprescindible para entender el draft y tu línea.
 
@@ -51,8 +58,10 @@ Todas las versiones: [Releases](https://github.com/intoher/coach-de-draft-lol/re
 
 ## Privacidad
 
-- Lee la selección de campeones del propio cliente de League (la API local que usan Blitz, Porofessor, U.GG…). No
-  automatiza nada: no elige, no banea ni acepta por ti.
+- Lee la selección de campeones del propio cliente de League (la API local que usan Blitz, Porofessor, U.GG…). Por
+  su cuenta no automatiza nada; solo si usas el companion (desactivado de serie), hace lo que le encargues y
+  confirmes: buscar partida, aceptarla, banear y pickear (Riot no tiene una API oficial para esto; úsalo bajo tu
+  responsabilidad).
 - Durante la selección de campeones no consulta nada de ningún jugador. Con la partida ya empezada, lee en tu
   cliente el rango, la maestría y las últimas partidas de los jugadores de la partida, como hacen las apps de partida
   en vivo; lo leído no se guarda ni se envía a ningún sitio. Se desactiva en *Ajustes*.
