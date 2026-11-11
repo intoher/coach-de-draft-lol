@@ -18,8 +18,8 @@ de la partida** ampliable, con solo lo tuyo o con todo y una **repetición** con
 (con sus runas, objetos y los objetivos de cada equipo en iconos) y tu fase de líneas (y, con el Coach IA, el coach
 te la explica). Puedes **buscar a cualquier invocador** por su Riot ID y ver su
 perfil (rango, cómo viene, sus campeones y sus partidas) y, **desde la pantalla de carga**, el perfil de los cinco
-rivales y de tu equipo: su rango, cuánto han jugado a su campeón, cómo vienen, quiénes juegan juntos y qué hacer
-contra cada uno.
+rivales y de tu equipo: su rango y su win rate, cuánto han jugado a su campeón, cómo juegan (KDA, farmeo, primera
+sangre), cómo vienen (también hoy), quiénes juegan juntos y qué hacer contra cada uno.
 
 Y la **ventanita**, como la de Porofessor o Blitz: una ventana pequeña que se abre sola en cada selección de
 campeones (en tu segunda pantalla) con lo útil de cada momento. Qué banear y qué elegir, tu build y tu plan; en la
