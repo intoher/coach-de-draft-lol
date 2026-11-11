@@ -2,7 +2,10 @@
 
 Coach de draft para League of Legends en una ventana para la segunda pantalla. Sigue tu selección de campeones en
 tiempo real y te dice qué elegir (priorizando la línea inferior), qué banear, cómo va cada enfrentamiento, qué build
-hacer y cómo jugar los primeros 15 minutos. Las estadísticas son reales (OP.GG, parche actual) y tiene un Coach IA
+hacer y cómo jugar los primeros 15 minutos. La **build se adapta a cada partida**: contra un equipo que se cura
+mucho, tanques, casi todo daño físico o mágico, asesinos o supresiones, mete en su puesto el objeto que encaja con tu
+campeón (Recordatorio letal un tirador, Malla de espinas un tanque, Morellonomicón un mago…), elige las botas de esa
+partida para tu línea y te dice por qué. Las estadísticas son reales (OP.GG, parche actual) y tiene un Coach IA
 opcional con la IA que prefieras: analiza tu draft, **contesta en un chat** lo que le preguntes de League (runas,
 enfrentamientos, builds, cómo jugar algo) con los datos del parche actual, y hace la **review de tu perfil** con
 todas tus partidas: qué haces bien, qué te está costando partidas y cómo mejorar. Si la IA está saturada (el típico
