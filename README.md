@@ -30,7 +30,8 @@ aumento, pone bajo cada carta **su tier con tu campeón** (S, A, B…) encima de
 o ventana). Y al acabar cada partida, un **resumen** contigo en grande: tu campeón, tu KDA, tu daño, curación,
 escudos, oro, medallas y los diez jugadores.
 
-Y el **companion**: Federico, un pequeño inventor que vive en tu pantalla. Haz clic en él y pídele con tus
+Y el **companion**: Federico, un pequeño inventor que vive en tu pantalla (o, si lo prefieres, Xayah en versión
+chibi; cada uno con su propia voz de balbuceo, grave o aguda). Haz clic en él y pídele con tus
 palabras «búscame soloq en 5 minutos, pickea akali mid y banea fizz»: te pregunta lo necesario (tu segunda línea, a
 quién pickear si te banean o te toca autofill, qué hacer si eres first pick…), lo recuerda para la próxima vez, y
 a su hora busca la partida, la acepta, banea y pickea por ti, siempre con unos segundos para que lo cambies tú. Camina
