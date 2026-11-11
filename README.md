@@ -26,12 +26,12 @@ campeones (en tu segunda pantalla) con lo útil de cada momento. Qué banear y q
 pantalla de carga, los diez jugadores con su rango y cómo vienen; y durante la partida, el marcador con el **oro en
 objetos** de cada equipo, **cuándo sale cada objetivo**, tus números frente a tu rival y **tu siguiente compra**.
 
-Y el **companion**: un pequeño asistente holográfico que vive en tu pantalla. Haz clic en él y pídele con tus
+Y el **companion**: Federico, un pequeño inventor que vive en tu pantalla. Haz clic en él y pídele con tus
 palabras «búscame soloq en 5 minutos, pickea akali mid y banea fizz»: te pregunta lo necesario (tu segunda línea, a
 quién pickear si te banean o te toca autofill, qué hacer si eres first pick…), lo recuerda para la próxima vez, y
-a su hora busca la partida, la acepta, banea y pickea por ti, siempre con unos segundos para que lo cambies tú. Se
-mueve por la pantalla, tiene sus caras y sus sonidos, y se esconde durante la partida. Se activa con el botón del
-robot de la barra de título.
+a su hora busca la partida, la acepta, banea y pickea por ti, siempre con unos segundos para que lo cambies tú. Camina
+por tu pantalla (o solo por el cliente, moviéndose con él), solo aparece con League abierto, tiene sus caras y sus
+sonidos, y se esconde durante la partida. Se activa con el botón del robot de la barra de título.
 
 ¿Demasiada información? Elige el **Modo simple** (la app lo pregunta la primera vez que la abres, y se cambia cuando
 quieras en *Ajustes*): cada pestaña enseña solo lo imprescindible para entender el draft y tu línea.
