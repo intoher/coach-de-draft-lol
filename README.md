@@ -25,6 +25,10 @@ Y la **ventanita**, como la de Porofessor o Blitz: una ventana pequeña que se a
 campeones (en tu segunda pantalla) con lo útil de cada momento. Qué banear y qué elegir, tu build y tu plan; en la
 pantalla de carga, los diez jugadores con su rango y cómo vienen; y durante la partida, el marcador con el **oro en
 objetos** de cada equipo, **cuándo sale cada objetivo**, tus números frente a tu rival y **tu siguiente compra**.
+En **ARAM y ARAM: Caos** enseña solo lo necesario: tu build de ARAM y, en Caos, tus mejores aumentos; y al elegir
+aumento, pone bajo cada carta **su tier con tu campeón** (S, A, B…) encima del juego (con el juego en modo sin bordes
+o ventana). Y al acabar cada partida, un **resumen** contigo en grande: tu campeón, tu KDA, tu daño, curación,
+escudos, oro, medallas y los diez jugadores.
 
 Y el **companion**: Federico, un pequeño inventor que vive en tu pantalla. Haz clic en él y pídele con tus
 palabras «búscame soloq en 5 minutos, pickea akali mid y banea fizz»: te pregunta lo necesario (tu segunda línea, a
@@ -70,9 +74,12 @@ Todas las versiones: [Releases](https://github.com/intoher/coach-de-draft-lol/re
   en vivo; lo leído no se guarda ni se envía a ningún sitio. Se desactiva en *Ajustes*.
 - Durante la partida, la ventanita lee la API de partida del propio juego (en tu PC, la misma del marcador del Tab):
   solo lo que el juego ya enseña a cualquier jugador, y nada sale de tu PC.
+- En ARAM: Caos, para saber qué cartas de aumento te ofrece el juego, lee la pantalla del juego con el OCR de
+  Windows (sin tocar el juego) y guarda en tu PC una captura de las primeras cartas que ve (para ajustar dónde va la
+  letra); nada de eso sale de tu PC. Se desactiva en *Ajustes*.
 - Los perfiles de otros invocadores y el detalle de cada partida se piden a tu propio cliente de League, nunca a
   terceros.
-- Fuera de tu PC solo pide estadísticas de campeones a OP.GG, datos del juego a Riot (Data Dragon y notas de parche),
+- Fuera de tu PC solo pide estadísticas de campeones y de aumentos a OP.GG, datos del juego a Riot (Data Dragon y notas de parche),
   las versiones nuevas a esta página y, si activas el Coach IA, lo que le pidas (el resumen del draft, tus preguntas
   del chat, el resumen de tus partidas para la review o la partida que quieres que te explique) a la IA que elijas,
   con tu propia key y sin nombres de jugadores.
