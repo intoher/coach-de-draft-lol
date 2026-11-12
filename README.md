@@ -50,7 +50,7 @@ quieras en *Ajustes*): cada pestaña enseña solo lo imprescindible para entende
 
 ## Descargar
 
-**[⬇ Descargar el instalador para Windows](https://github.com/intoher/coach-de-draft-lol/releases/latest/download/Drafter-Setup.exe)** (Windows 10 u 11 de 64 bits, unos 89 MB)
+**[⬇ Descargar el instalador para Windows](https://github.com/intoher/coach-de-draft-lol/releases/latest/download/Drafter-Setup.exe)** (Windows 10 u 11 de 64 bits, unos 90 MB)
 
 1. Abre el instalador. Como la app no está firmada, Windows puede avisar con "Windows protegió su PC": pulsa
    **Más información** y después **Ejecutar de todas formas**. El navegador también puede preguntar si quieres
