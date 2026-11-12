@@ -1,4 +1,4 @@
-# Coach de draft LoL
+# Drafter
 
 Coach de draft para League of Legends en una ventana para la segunda pantalla. Sigue tu selección de campeones en
 tiempo real y te dice qué elegir (priorizando la línea inferior), qué banear, cómo va cada enfrentamiento, qué build
@@ -50,7 +50,7 @@ quieras en *Ajustes*): cada pestaña enseña solo lo imprescindible para entende
 
 ## Descargar
 
-**[⬇ Descargar el instalador para Windows](https://github.com/intoher/coach-de-draft-lol/releases/latest/download/Coach-de-draft-LoL-Setup.exe)** (Windows 10 u 11 de 64 bits, unos 89 MB)
+**[⬇ Descargar el instalador para Windows](https://github.com/intoher/coach-de-draft-lol/releases/latest/download/Drafter-Setup.exe)** (Windows 10 u 11 de 64 bits, unos 89 MB)
 
 1. Abre el instalador. Como la app no está firmada, Windows puede avisar con "Windows protegió su PC": pulsa
    **Más información** y después **Ejecutar de todas formas**. El navegador también puede preguntar si quieres
@@ -93,10 +93,10 @@ Todas las versiones: [Releases](https://github.com/intoher/coach-de-draft-lol/re
 
 ## Desinstalar
 
-Configuración de Windows → Aplicaciones → Coach de draft LoL → Desinstalar.
+Configuración de Windows → Aplicaciones → Drafter → Desinstalar.
 
 ---
 
-Coach de draft LoL no está respaldada por Riot Games y no refleja las opiniones de Riot Games ni de nadie implicado
+Drafter no está respaldada por Riot Games y no refleja las opiniones de Riot Games ni de nadie implicado
 oficialmente en producir o gestionar propiedades de Riot Games. Riot Games y todas las propiedades asociadas son
 marcas comerciales o marcas registradas de Riot Games, Inc.
