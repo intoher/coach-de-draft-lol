@@ -30,13 +30,13 @@ aumento, pone bajo cada carta **su tier con tu campeón** (S, A, B…) encima de
 o ventana). Y al acabar cada partida, un **resumen** contigo en grande: tu campeón, tu KDA, tu daño, curación,
 escudos, oro, medallas y los diez jugadores.
 
-Y el **companion**: Federico, un pequeño inventor que vive en tu pantalla (o, si lo prefieres, Xayah en versión
-chibi; cada uno con su propia voz de balbuceo, grave o aguda). Haz clic en él y pídele con tus
+Y el **companion**: Federico, un pequeño inventor que vive en tu pantalla (o, si lo prefieres, Xayah o Samira en
+versión chibi; cada uno con su propia voz de balbuceo). Haz clic en él y pídele con tus
 palabras «búscame soloq en 5 minutos, pickea akali mid y banea fizz»: te pregunta lo necesario (tu segunda línea, a
 quién pickear si te banean o te toca autofill, qué hacer si eres first pick…), lo recuerda para la próxima vez, y
 a su hora busca la partida, la acepta, banea y pickea por ti, siempre con unos segundos para que lo cambies tú. Camina
 por tu pantalla (o solo por el cliente, moviéndose con él), solo aparece con League abierto y tiene sus caras y sus
-sonidos. En la selección de campeones comenta de vez en cuando los picks de los dos equipos (cada campeón tiene su
+sonidos. Y si lo lanzas contra una pared y lo coges al vuelo, sumas **combos** sin límite. En la selección de campeones comenta de vez en cuando los picks de los dos equipos (cada campeón tiene su
 frase), y durante la partida solo se asoma por un lado de la pantalla para avisarte de lo que te puedes perder: la
 primera sangre, los objetivos que salen o se cogen, las torres de tu línea, tu rival de línea muerto, el oro en
 objetos con tu rival, tu farm, puntos de habilidad sin usar… Solo usa lo que el propio juego enseña (nada de
